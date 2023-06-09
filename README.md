@@ -1,5 +1,7 @@
 # Docker command loop container
 
+Deprecated, replaced with https://gitlab.com/jeremy-open-source/docker-containers/-/tree/master/command-loop
+
 I needed a simple container to run a few commands continuously in a loop like nmap and curl, so I created this quickly
 
 ## Docker Usage
